@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <linearGradient id="wg" x1="60" y1="10" x2="60" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#D1E2B3"/>
+      <stop offset="45%" stop-color="#76A192"/>
+      <stop offset="100%" stop-color="#235064"/>
+    </linearGradient>
+    <radialGradient id="wgd" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#E8C2A4"/>
+      <stop offset="100%" stop-color="#B88562"/>
+    </radialGradient>
+  </defs>
+  <path d="M26 92 V44 Q26 36 34 34 L58 16 Q62 13 66 16 L96 40" stroke="url(#wg)" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M34 88 V76" stroke="url(#wg)" stroke-width="7.5" stroke-linecap="round"/>
+  <path d="M46 88 V66" stroke="url(#wg)" stroke-width="7.5" stroke-linecap="round"/>
+  <path d="M58 88 V56" stroke="url(#wg)" stroke-width="7.5" stroke-linecap="round"/>
+  <path d="M70 88 V48" stroke="url(#wg)" stroke-width="7.5" stroke-linecap="round"/>
+  <path d="M28 96 C40 86 48 104 62 92 C72 84 80 88 94 94" stroke="url(#wg)" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="98" cy="68" r="7.2" fill="url(#wgd)"/>
+</svg>
